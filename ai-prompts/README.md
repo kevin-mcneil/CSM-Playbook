@@ -4,7 +4,7 @@ This folder contains AI prompts that support workflows, analysis, and preparatio
 
 ## Prompt: Stakeholder Map
 
-"I'm a Customer Success Manager for a [type of product or platform] that helps companies with [primary use case].
+I'm a Customer Success Manager for a [type of product or platform] that helps companies with [primary use case].
 
 Our solution delivers these outcomes:
 - [Outcome 1]
@@ -12,16 +12,16 @@ Our solution delivers these outcomes:
 - [Outcome 3]
 - [Outcome 4]
 
-Help me build a stakeholder map. Include anyone who might be influenced by our product, who might have a project that touches our product, or anyone who might be involved in the buying committee. Which stakeholders and departments should I prioritize for relationship building to ensure successful adoption and expansion?"
+Help me build a stakeholder map. Include anyone who might be influenced by our product, who might have a project that touches our product, or anyone who might be involved in the buying committee. Which stakeholders and departments should I prioritize for relationship building to ensure successful adoption and expansion?
 
 ## Prompt: Stakeholder Motivations Table
 
-"For each of those stakeholders, please summarize the following in a table, one stakeholder per row:
+For each of those stakeholders, please summarize the following in a table, one stakeholder per row:
 - What business outcomes and metrics matter most to this stakeholder
 - How they typically measure success
 - Common challenges they face
 - How our solution addresses these challenges
-- What risks might cause them to disengage or question our value"
+- What risks might cause them to disengage or question our value
 
 ## Prompt: Preparation for Role Specific Understanding
 
