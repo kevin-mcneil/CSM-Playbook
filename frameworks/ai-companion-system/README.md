@@ -8,7 +8,7 @@ Goal: Identify who matters inside the customer organization.
 
 Prompt skeleton:
 
-"I'm a Customer Success Manager for a [type of product or platform] that helps companies with [primary use case].
+I'm a Customer Success Manager for a [type of product or platform] that helps companies with [primary use case].
 
 Our solution delivers these outcomes:
 - [Outcome 1]
@@ -33,12 +33,12 @@ Goal: Understand what each persona cares about.
 
 Prompt skeleton:
 
-"For each of those stakeholders, please summarize the following points in tabular format, with each point as a column header and each stakeholder as its row:
---> What business outcomes and metrics matter most to this stakeholder
---> How this stakeholder typically measures success in their role
---> Common challenges this stakeholder faces when trying to achieve their goals
---> How our solution specifically addresses these challenges and supports their success metrics
---> What risks might cause this stakeholder to disengage or question our value"
+For each of those stakeholders, please summarize the following points in tabular format, with each point as a column header and each stakeholder as its row:
+- What business outcomes and metrics matter most to this stakeholder
+- How this stakeholder typically measures success in their role
+- Common challenges this stakeholder faces when trying to achieve their goals
+- How our solution specifically addresses these challenges and supports their success metrics
+- What risks might cause this stakeholder to disengage or question our value
 
 ---
 
@@ -48,7 +48,7 @@ Goal: Generate role specific and value focused messaging.
 
 Prompt skeleton:
 
-"Using the stakeholder table we created, generate four communication templates:
+Using the stakeholder table we created, generate four communication templates:
 
 - An introduction email for a new stakeholder explaining our partnership vision
 - A QBR summary highlighting value delivered to their specific department
@@ -63,11 +63,11 @@ For each template:
 4) Include a clear next step or action item
 
 Keep it under 150 words and easily scannable
-Use straightforward, jargon-free language."
+Use straightforward, jargon-free language.
 
 ---
 
 >You can then lightly edit the outputs to match:
-- Your tone
-- Your product
-- Your customer context
+>- Your tone
+>- Your product
+>- Your customer context
