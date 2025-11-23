@@ -1,10 +1,11 @@
 # Customer Success Manager Playbook
 
-A practical, technical-friendly operating system for a Great CSM in B2B SaaS.
+A practical, day to day operating system for a Great Customer Success Manager in a technical or security adjacent business to business software as a service environment.  
+Designed for someone pivoting into Customer Success Management from a technical background.
 
 ## Documentation
 
-All sections have been broken into folders under /docs.
+All sections are organized into folders under /docs. Each section contains its full content in a dedicated README file.
 
 ## Core Playbook Sections
 
@@ -14,12 +15,14 @@ All sections have been broken into folders under /docs.
 - [Weekly Operating Rhythm](./weekly-operating-rhythm/README.md)
 - [Daily Workflow](./daily-workflow/README.md)
 - [Frameworks](./frameworks/README.md)
+  - [QDIA Call Notes](./frameworks/qdia-call-notes/README.md)
+  - [AI Companion System](./frameworks/ai-companion-system/README.md)
 - [Stakeholders and Personas](./stakeholders-and-personas/README.md)
 - [Communication Patterns](./communication/README.md)
 - [Learning and Craft Development](./learning-and-craft-development/README.md)
 - [First 90 Days Checklist](./first-90-days/README.md)
 
-## Templates
+## Templates and Extended Resources
 
 - [QBR Template](./qbr-template/README.md)
 - [Success Plan Template](./success-plans/README.md)
