@@ -6,9 +6,9 @@ This folder contains all email templates provided in the playbook. Templates cre
 
 Generated from the AI Companion System prompt:
 
-"Using the stakeholder table we created, generate four communication templates:
+Using the stakeholder table we created, generate four communication templates:
 
-1. An introduction email for a new stakeholder explaining our partnership vision"
+1. An introduction email for a new stakeholder explaining our partnership vision
 
 Template structure:
 
@@ -18,11 +18,13 @@ Template structure:
 - Include a clear next step
 - Keep it under one hundred fifty words and easily scannable
 
+---
+
 ## Quarterly Business Review Summary Email
 
 Generated from the AI Companion System prompt:
 
-"2. A Quarterly Business Review summary email highlighting value delivered to their department"
+2. A Quarterly Business Review summary email highlighting value delivered to their department
 
 Template structure:
 
@@ -31,11 +33,13 @@ Template structure:
 - Outline agreed next steps
 - Tie progress to their goals
 
+---
+
 ## At Risk Account Message
 
 Generated from the AI Companion System prompt:
 
-"3. An at risk account message addressing potential adoption challenges"
+3. An at risk account message addressing potential adoption challenges
 
 Template structure:
 
@@ -45,11 +49,13 @@ Template structure:
 - Offer a short, clear plan to correct it
 - Keep the message straightforward and supportive
 
+---
+
 ## Expansion Opportunity Message
 
 Generated from the AI Companion System prompt:
 
-"4. An expansion opportunity message tied to their business objectives"
+4. An expansion opportunity message tied to their business objectives
 
 Template structure:
 
