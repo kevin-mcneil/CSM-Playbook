@@ -8,5 +8,5 @@ This playbook is meant to be:
 - Technical friendly. Assumes the product is at least somewhat technical such as security, infrastructure, or a software as a service platform.
 
 Core idea:
-
-A Great Customer Success Manager is a proactive, structured advisor who drives customer outcomes and adoption, not just a reactive coordinator who forwards emails.
+---
+>A Great Customer Success Manager is a proactive, structured advisor who drives customer outcomes and adoption, not just a reactive coordinator who forwards emails.
