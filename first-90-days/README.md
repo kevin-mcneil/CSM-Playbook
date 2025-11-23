@@ -1,6 +1,6 @@
 # First 90 Days Checklist
 
-A practical roadmap for ramping as a new CSM.
+A practical roadmap for ramping as a new customer success manager.
 
 ## Days 1 through 30: Learn and Observe
 
