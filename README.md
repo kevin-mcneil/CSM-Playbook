@@ -17,7 +17,8 @@ All sections are organized into folders under /docs. Each section contains its f
   - [QDIA Call Notes](./frameworks/qdia-call-notes/README.md)
   - [AI Companion System](./frameworks/ai-companion-system/README.md)
 - [Stakeholders and Personas](./stakeholders-and-personas/README.md)
-- [Communication Patterns](./communication/README.md)
+- [Communication Patterns](docs/communication-patterns/README.md)
+  - [Partnership Language](docs/communication-patterns/partnership-language/README.md)
 - [Learning and Craft Development](./learning-and-craft-development/README.md)
 - [First 90 Days Checklist](./first-90-days/README.md)
 
