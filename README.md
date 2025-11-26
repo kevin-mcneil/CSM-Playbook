@@ -19,6 +19,7 @@ All sections are organized into folders under /docs. Each section contains its f
 - [Stakeholders and Personas](./stakeholders-and-personas/README.md)
 - [Communication Patterns](docs/communication-patterns/README.md)
   - [Partnership Language](docs/communication-patterns/partnership-language/README.md)
+- [Health Checks](docs/health-checks/README.md)
 - [Learning and Craft Development](./learning-and-craft-development/README.md)
 - [First 90 Days Checklist](./first-90-days/README.md)
 
